@@ -1,19 +1,19 @@
-# 👋 ¡Hola! Soy [Nicodevvv](https://github.com/nicodevvv)
+# 👋 Hi! I'm [Nicodevvv](https://github.com/nicodevvv)
 
 [![GitHub Stars](https://img.shields.io/github/stars/nicodevvv?color=gold&logo=Github&style=for-the-badge)](#)
 [![Twitch Status](https://img.shields.io/twitch/status/nicodevvv?color=purple&logo=Twitch&logoColor=white&style=for-the-badge)](https://www.twitch.tv/nicodevvv)
 [![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/PNicolasDevelop)
 [![Instagram](https://img.shields.io/badge/@where.tech-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/where.tech/)
 
-👨‍💻 Soy desarrollador **Frontend** especializado en **Angular**, **React**, **HTML** y **CSS vanilla**, y trabajo también con **Node.js** en el backend. Me encanta crear interfaces limpias, rápidas y cuidadas al detalle.
+👨‍💻 I’m a Frontend developer specialized in Angular, React, HTML, and vanilla CSS, and I also work with Node.js on the backend. I love building clean, fast, and detail-oriented interfaces.
 
-🔧 En mis ratos libres disfruto cacharreando con **hardware**, explorando el mundo **Linux**, y contribuyendo o aprendiendo de proyectos **open source**.  Además, soy un auténtico fanático de los **teclados mecánicos**, especialmente los formatos **65% y 68%**, donde me encanta probar switches, keycaps y layouts personalizados.
+🔧 In my free time, I enjoy tinkering with hardware, exploring the Linux ecosystem, and contributing to or learning from open-source projects. I’m also a huge fan of mechanical keyboards, especially 65% and 68% layouts, where I love experimenting with switches, keycaps, and custom setups.
 
-✨ En este perfil encontrarás proyectos reales que uso para aprender, optimizar y mejorar como desarrollador.
+✨ In this profile you’ll find real projects I use to learn, optimize, and improve as a developer.
 
 ---
 
-## 👨‍💻 Lenguajes
+## 👨‍💻 Languages
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)](#)
 [![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)](#)
@@ -22,7 +22,7 @@
 
 ---
 
-## 🖼️ Frameworks & Librerías
+## 🖼️ Frameworks & Libraries
 
 ### 🧩 Frontend
 
@@ -36,7 +36,7 @@
 
 ---
 
-## 🛠️ Otras herramientas que utilizo
+## 🛠️ Other tools I use
 
 [![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)](#)
 [![VSCode](https://img.shields.io/badge/VSCode-black?style=for-the-badge&logo=visualstudiocode)](#)
@@ -44,5 +44,5 @@
 
 ---
 
-✨ **¡Gracias por visitar mi perfil!**  
-Si quieres ver mis proyectos más recientes, ¡siempre estoy construyendo algo nuevo!
+✨ **Thanks for visiting my profile!**  
+If you want to check out my latest projects, I’m always building something new!
